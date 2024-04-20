@@ -1,6 +1,6 @@
 # 8085-simulator
 This interactive simulator emulates the 8085 microprocessor. Enter the opcodes and witness simulated execution
-Features:
+Features
   *Input opcodes (machine language instructions)
   *Simulate execution of provided opcodes
   *A valuable tool for learning and debugging 8085 assembly language programs.
